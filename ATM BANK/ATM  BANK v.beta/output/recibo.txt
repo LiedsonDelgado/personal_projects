@@ -1,7 +1,0 @@
-RECIBO ATM
-------------------------------
-Levantamento: 0 CVE
-Hora: Sat Oct 19 18:58:46 2024
-Numero da conta: 4201824
-Nome: Nome do Cliente
-------------------------------
