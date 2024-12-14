@@ -4,7 +4,7 @@
         {
             "label": "gcc build",
             "type": "shell",
-            "command": "/usr/bin/gcc", // ou "gcc" no Windows
+            "command": "/usr/bin/gcc",
             "args": [
                 "-g",
                 "${file}",
