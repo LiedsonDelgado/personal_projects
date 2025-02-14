@@ -1,13 +1,13 @@
-#Meus Projetos Pessoais
+# Meus Projetos Pessoais
 
-##🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![ASM](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=assembly&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JS-1572B6?style=flat-square&logo=js&logoColor=white)
 
-##📫 Contact Me
+## 📫 Contact Me
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/seu_perfil)
 [![X (Twitter)](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/seu_perfil)
