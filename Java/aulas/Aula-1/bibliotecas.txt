@@ -1,0 +1,4 @@
+import javax.swing.*; //biblioteca usada para interface grafica
+import java.util.Date; //para importar data e hora do sistema
+import java.util.Locale; //para exibir idioma do systema 
+import java.awt.*; //para exibir a resolucao da tela
