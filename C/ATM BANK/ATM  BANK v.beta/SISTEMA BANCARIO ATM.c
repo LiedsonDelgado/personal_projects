@@ -56,19 +56,24 @@ switch(esc_oprc){
 switch(esc_oprc2){
      case 'a':
 	 montante_lev=1000;
+	     c_user.saldo_bancario-=montante_lev;
 			 break;
      case 'b':
 	 montante_lev=2000;
+	     c_user.saldo_bancario-=montante_lev;
 			 break;
      case 'c':
 	 montante_lev=3000;
+	     c_user.saldo_bancario-=montante_lev;
 			 break;
      case 'd':
 	 montante_lev=5000;
+	     c_user.saldo_bancario-=montante_lev;
 			 break;
 	 case 'e':
 	 printf("Digite o montante que deseja levantar");
 	    scanf("%d",&montante_lev);
+		 c_user.saldo_bancario-=montante_lev;
 		     break;
 default:
 	 printf("OPCAO INVALIDA,TENTE NOVAMENTE!!!\n");
