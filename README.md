@@ -1,7 +1,7 @@
 # ⚙️Meus Projetos Pessoais🔧
 <h3>Este respositorio se destina aos meus projectos pessoais ou estudos independentes.</h3>
   <img src="https://img.shields.io/github/last-commit/LiedsonDelgado/personal_projects?color=00ffb2" alt="last_commit_in_repo/pp"/>
-<h2>Ferramentas e Linguagens usadas:</h2>
+<h2>Linguagens usadas:</h2>
   <h3>
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
