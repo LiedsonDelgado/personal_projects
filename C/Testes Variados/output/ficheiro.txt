@@ -1,0 +1,13 @@
+...............[Recibo BCV ATM SERVICES]...............
+ RECIBO N:101                                           
+.......................................................
+                                                       
+ CLIENTE: Jose Dias da Luz                                           
+ N CONTA: AA01B67NV44                                           
+ VALOR DO LEVANTAMENTO FEITO.............[5000 CVE]      
+ VALOR DISPONIVEL NA CONTA...............[10000 CVE]      
+                                                       
+                                                       
+                                                       
+ HORARIO DAS OPERACOES FEITAS:AS [12h27] de [12/1/2024] 
+.......................................................

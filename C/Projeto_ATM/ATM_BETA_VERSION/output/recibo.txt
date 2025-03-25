@@ -1,0 +1,8 @@
+RECIBO ATM
+------------------------------
+Levantamento: 0CVE
+Hora: Fri Dec 20 19:33:26 2024
+
+Numero da conta: 246810
+Nome: John
+------------------------------

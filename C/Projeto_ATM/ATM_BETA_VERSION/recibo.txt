@@ -1,0 +1,8 @@
+RECIBO ATM
+------------------------------
+Levantamento: 0CVE
+Hora: Sun Mar 23 21:22:29 2025
+
+Numero da conta: 246810
+Nome: John
+------------------------------
