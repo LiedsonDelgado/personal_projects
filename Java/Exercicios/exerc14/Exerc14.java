@@ -14,9 +14,9 @@ public class Exerc14 {
                             idades[i] = sc.nextInt();
 
                             if(idades[i] >= 18){
-                                System.out.println("VOCE MAIOR DE IDADE POR TER " +idades[i] +" ANO(S)");
+                                System.out.println("VOCE EH MAIOR DE IDADE POR TER " +idades[i] +" ANO(S)");
                             }else{
-                                System.out.println("VOCE MENOR DE IDADE POR TER " +idades[i] +" ANO(S)");
+                                System.out.println("VOCE EH MENOR DE IDADE POR TER " +idades[i] +" ANO(S)");
                             }
                     }else{
                         sc.close();
