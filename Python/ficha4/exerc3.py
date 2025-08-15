@@ -43,3 +43,4 @@ while exe:
 
         case _:
             print(">Opcao invalida, tente novamente!")
+
