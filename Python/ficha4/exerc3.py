@@ -26,20 +26,20 @@ while exe:
         case 2:
             preco = menu[2]["Preco"]
             quant = int(input("-Quantidade a encomendar: "))
-            total = preco * quant
+            total = preco*quant
             print(f">O total a pagar sera de {total} €")
 
         case 3:
             preco = menu[3]["Preco"]
             quant = int(input("-Quantidade a encomendar: "))
-            total = preco * quant
+            total = preco*quant
             print(f">O total a pagar sera de {total} €")
 
         case 4:
             preco = menu[4]["Preco"]
             quant = int(input("-Quantidade a encomendar: "))
-            total = preco * quant
+            total = preco*quant
             print(f">O total a pagar sera de {total} €")
-            
+
         case _:
             print(">Opcao invalida, tente novamente!")
