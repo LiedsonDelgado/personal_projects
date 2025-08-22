@@ -8,4 +8,5 @@ if a > b:
 elif a < b:
     print("-%d e menor que %d: "%(a,b))
 else:
+
     print("-Ambos %d e %d sao iguais: "%(a,b))
