@@ -62,6 +62,8 @@ def junta_ficheiro_ordenados(fich1,fich2,fich3):
     for i in range(len(f3_list)):
         f3.write(f"{f3_list[i]}\n")
 
+    f3.close()
     print("=>O ficheiro 3 foi atualizado!")
+
 
 junta_ficheiro_ordenados("fich1.txt","fich2.txt","fich3.txt")
