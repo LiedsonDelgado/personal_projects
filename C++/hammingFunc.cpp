@@ -7,12 +7,12 @@ int H(string s1,string s2){
     int count = 0;
 
     if(tam_s1 != tam_s2){
-        cout << "Erro: as strings devem tem o mesmo tamanho!\n";
+        cout << "Erro: as strings devem ser do mesmo tamanho!\n";
         return -1;
     }
 
     if(tam_s1 == tam_s2){
-        int n = tam_s1;
+        int n = (tam_s1+tam_s2)/2;
         for(int i=0;i<n;i++){
             if(s1[i] != s2[i]){
                 count += 1;
